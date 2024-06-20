@@ -1,0 +1,7 @@
+﻿id,displayName,groupType,membershipType,source,mail,securityEnabled,mailEnabled,isAssignableToRole,onPremisesSyncEnabled
+4c25d6a6-5573-408c-ae44-70544c32e9e8,Proyecto SID,Microsoft 365,Assigned,Cloud,Directoriopredeterminado@proyectomayozuregmail.onmicrosoft.com,False,True,False,
+66ae8d06-1eb6-4c9a-a416-ef43a98f494d,All Company,Microsoft 365,Assigned,Cloud,allcompany@proyectomayozuregmail.onmicrosoft.com,False,True,False,
+78c85147-886a-49dd-8e21-d3fa273aa898,Grupo-Sistemas,Security,Assigned,Cloud,,True,False,False,
+9e5015ef-4163-41cb-b748-282de30ce0e8,AAD DC Administrators,Security,Assigned,Cloud,,True,False,False,
+a39b262b-8cd6-41dd-ac05-b8b5c4a93b07,Alumnos-desarrollo,Security,Assigned,Cloud,,True,False,False,
+cedb9a84-c2b5-4ae4-8bd0-9197427feaa3,usuarios VM,Security,Assigned,Cloud,,True,False,False,
